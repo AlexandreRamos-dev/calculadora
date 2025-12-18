@@ -5,7 +5,7 @@
 
 // Função para limpar os valores do display
     function clean() {
-        document.querySelector('#display').value = ''
+        document.querySelector('#display').value = '' // Limpar 
     }
 
 // Função para voltar números do display
